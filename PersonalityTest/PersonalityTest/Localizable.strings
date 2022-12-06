@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  PersonalityTest
+
+  Created by WolfWare02 on 5.12.22.
+  
+*/
+
+"landing-title-label" = "Are you an introvert or an extrovert?";
+"landing-description-label" = "Take this test to figure out your personality";
+
+"button-start" = "Start";
+"button-previous" = "Previous";
+"button-next-question" = "Next question";
+"button-retake-test" = "Retake test";
+"button-finish-test" = "Finish test";
+
+"results-score" = "Your score is";
+"results-introvert-points" = "Introvert points:";
+"results-extrovert-points" = "Extrovert points:";
+
+"results-title" = "Your results are in!";
+"results-description" = "You are ";
+"results-description-introvert" = "an Introvert!";
+"results-description-extrovert" = "an Extrovert!";
+"results-description-middle" = "somewhere in the middle!";
